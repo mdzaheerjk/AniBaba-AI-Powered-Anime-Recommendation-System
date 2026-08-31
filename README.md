@@ -4,15 +4,9 @@ AniBaba is an AI-powered anime recommendation system that provides personalized 
 ## Project Preview
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_banners/Gemini_Generated_Image_opyjbuopyjbuopyj.jpg"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_banners/Gemini_Generated_Image_opyjbuopyjbuopyj.jpg"
        alt="Project Preview"
        width="600" />
 </p>
 
-## System Architecture
 
-<p align="center">
-  <img src="https://backend.krishnaik.in/media/project_architecture_diagrams/Excalidraw_Whiteboard_-_Google_Chrome_1_14_2026_4_18_25_PM.png"
-       alt="System Architecture"
-       width="600" />
-</p>
